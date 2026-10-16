@@ -1,7 +1,7 @@
 import NavBar from "./../components/NavBar";
-import Portfolio1 from "./../assets/Portfolio1.png";
-import Portfolio2 from "./../assets/Portfolio2.png";
-import Portfolio3 from "./../assets/Portfolio3.png";
+import Portfolio1 from "./../assets/portfolio1.png";
+import Portfolio2 from "./../assets/portfolio2.png";
+import Portfolio3 from "./../assets/portfolio3.png";
 
 export default function Portfolio() {
     return (
