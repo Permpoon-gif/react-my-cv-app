@@ -1,6 +1,6 @@
 import NavBar from "./../components/NavBar";
-import Contact1 from "./../assets/contact1.png";
-import Contact2 from "./../assets/contact2.png";
+import Contact1 from "./../assets/Contact1.png";
+import Contact2 from "./../assets/Contact2.png";
 import Contact3 from "./../assets/contact3.png";
 import Contact4 from "./../assets/contact4.png";
 
