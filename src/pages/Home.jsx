@@ -32,7 +32,7 @@ export default function Home() {
         {/*รูปด้านขวา */}
         <div>
             <img src ="https://images.pexels.com/photos/6787936/pexels-photo-6787936.jpeg" alt=""
-            className="w-[450px] h-[450px] object-cover rounded-full"/>
+            className="w-[450px] h-[300px] object-cover rounded-full"/>
         </div>
     </div>
     {/*ส่วนของข้อความ Tech Stack */}
@@ -41,7 +41,6 @@ export default function Home() {
             My Tech Stack 
         </p>
     </div>
-
     {/*ส่วนของรูปภาพ Tech Stack */}
     <div className="flex items-center justify-center gap-10 pt-10 ">
         <img src={html} alt="html"></img>
