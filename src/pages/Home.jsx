@@ -8,7 +8,7 @@ import node from "./../assets/node.png";
 import html from "./../assets/html.png";
 import spring from "./../assets/spring.png";
 import java from "./../assets/java.png";
-import firebase from "./../assets/firebase.png";
+import Firebase from "./../assets/Firebase.png";
 
 export default function Home() {
     return (
@@ -51,8 +51,9 @@ export default function Home() {
         <img src={spring} alt="spring"></img>
         <img src={java} alt="java"></img>
         <img src={figma} alt="figma"></img>
-        <img src={firebase} alt="firebase"></img>
+        <img src={Firebase} alt="Firebase"></img>
         
+
     </div>
     </>
     );
