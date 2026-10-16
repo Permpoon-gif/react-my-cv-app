@@ -1,8 +1,8 @@
 import NavBar from "./../components/NavBar";
 import Contact1 from "./../assets/Contact1.png";
 import Contact2 from "./../assets/Contact2.png";
-import Contact3 from "./../assets/contact3.png";
-import Contact4 from "./../assets/contact4.png";
+import Contact3 from "./../assets/Contact3.png";
+import Contact4 from "./../assets/Contact4.png";
 
 
 export default function Portfolio() {
